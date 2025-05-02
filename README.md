@@ -13,21 +13,21 @@ Changes over months for each store:<br />
 Changes over years for each store:<br />
 ![image](https://github.com/user-attachments/assets/4d9c1cf5-bae4-432f-8138-56c135d2eef1)<br />
 
-* Cumulative Analysis
-Cumulative analysis of sales by month, grouped by year:
-![image](https://github.com/user-attachments/assets/8afed8c6-9a7e-4b5b-947e-83fe35fd495b)
-Cumulative Analysis of sales by year:
-![image](https://github.com/user-attachments/assets/9fedac7d-83bc-4fa9-8449-41d28c447e5a)
+* Cumulative Analysis<br />
+Cumulative analysis of sales by month, grouped by year:<br />
+![image](https://github.com/user-attachments/assets/8afed8c6-9a7e-4b5b-947e-83fe35fd495b)<br />
+Cumulative Analysis of sales by year:<br />
+![image](https://github.com/user-attachments/assets/9fedac7d-83bc-4fa9-8449-41d28c447e5a)<br />
 
 * Part-To-Whole Analysis
-List shops by their contribution to overall sales:
-![image](https://github.com/user-attachments/assets/cf580684-a2de-4f1a-a13e-cb15a5635688)
-List products by their contribution to overall sales:
-![image](https://github.com/user-attachments/assets/64a76b4a-8d25-4b99-95a1-533159ac5090)
-List categories by their contribution to overall sales:
-![image](https://github.com/user-attachments/assets/11863419-3d1f-4c0d-8a53-0c199bc7f056)
-List brands by their contribution to overall sales:
-![image](https://github.com/user-attachments/assets/5d180114-fec3-4873-90f8-f7c8485d49c5)
+List shops by their contribution to overall sales:<br />
+![image](https://github.com/user-attachments/assets/cf580684-a2de-4f1a-a13e-cb15a5635688)<br />
+List products by their contribution to overall sales:<br />
+![image](https://github.com/user-attachments/assets/64a76b4a-8d25-4b99-95a1-533159ac5090)<br />
+List categories by their contribution to overall sales:<br />
+![image](https://github.com/user-attachments/assets/11863419-3d1f-4c0d-8a53-0c199bc7f056)<br />
+List brands by their contribution to overall sales:<br />
+![image](https://github.com/user-attachments/assets/5d180114-fec3-4873-90f8-f7c8485d49c5)<br />
 
 * Performance Analysis
 Total sales compared to average total sales for each product category every year:
