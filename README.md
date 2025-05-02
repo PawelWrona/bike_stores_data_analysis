@@ -7,19 +7,23 @@
 ## Overview
 
 This Data Analyst project provides the following analyses:
-* Changes Over Time Analysis
+
+* Changes Over Time Analysis<br />
+
 Changes over months for each store:<br />
 ![image](https://github.com/user-attachments/assets/0372fcad-aa0f-49b5-b9d8-3f7cd3bfec13)<br />
 Changes over years for each store:<br />
 ![image](https://github.com/user-attachments/assets/4d9c1cf5-bae4-432f-8138-56c135d2eef1)<br />
 
 * Cumulative Analysis<br />
+
 Cumulative analysis of sales by month, grouped by year:<br />
 ![image](https://github.com/user-attachments/assets/8afed8c6-9a7e-4b5b-947e-83fe35fd495b)<br />
 Cumulative Analysis of sales by year:<br />
 ![image](https://github.com/user-attachments/assets/9fedac7d-83bc-4fa9-8449-41d28c447e5a)<br />
 
-* Part-To-Whole Analysis
+* Part-To-Whole Analysis<br />
+
 List shops by their contribution to overall sales:<br />
 ![image](https://github.com/user-attachments/assets/cf580684-a2de-4f1a-a13e-cb15a5635688)<br />
 List products by their contribution to overall sales:<br />
@@ -29,31 +33,33 @@ List categories by their contribution to overall sales:<br />
 List brands by their contribution to overall sales:<br />
 ![image](https://github.com/user-attachments/assets/5d180114-fec3-4873-90f8-f7c8485d49c5)<br />
 
-* Performance Analysis
-Total sales compared to average total sales for each product category every year:
-![image](https://github.com/user-attachments/assets/e3c7dc2c-df49-47c2-aa37-3993e785271a)
-Total sales compared to last month total sales for each product category:
-![image](https://github.com/user-attachments/assets/12cb942a-2087-484b-907b-476de0fd7966)
-Total sales compared to average total sales for each product every year:
-![image](https://github.com/user-attachments/assets/744807ba-780c-4d87-a83b-211c248e3b2e)
-Total sales compared to last month total sales for each product:
-![image](https://github.com/user-attachments/assets/0451130d-37d0-4f0b-ab6d-e8e3c69441b9)
+* Performance Analysis<br />
 
-And reports:
-* Store report
-![image](https://github.com/user-attachments/assets/65d0c180-03fc-445d-a02a-50b0754cce66)
+Total sales compared to average total sales for each product category every year:<br />
+![image](https://github.com/user-attachments/assets/e3c7dc2c-df49-47c2-aa37-3993e785271a)<br />
+Total sales compared to last month total sales for each product category:<br />
+![image](https://github.com/user-attachments/assets/12cb942a-2087-484b-907b-476de0fd7966)<br />
+Total sales compared to average total sales for each product every year:<br />
+![image](https://github.com/user-attachments/assets/744807ba-780c-4d87-a83b-211c248e3b2e)<br />
+Total sales compared to last month total sales for each product:<br />
+![image](https://github.com/user-attachments/assets/0451130d-37d0-4f0b-ab6d-e8e3c69441b9)<br />
 
-* Staff report
-![image](https://github.com/user-attachments/assets/603ac0c1-cf21-4e43-ae95-1e9becbbd6ba)
+And reports:<br />
 
-* Product report
-![image](https://github.com/user-attachments/assets/5849667e-ff36-46a4-be9a-69c42da291b8)
+* Store report<br />
+![image](https://github.com/user-attachments/assets/65d0c180-03fc-445d-a02a-50b0754cce66)<br />
 
-* Category report
-![image](https://github.com/user-attachments/assets/816c3e0f-944c-4349-8182-9444d9e095c0)
+* Staff report<br />
+![image](https://github.com/user-attachments/assets/603ac0c1-cf21-4e43-ae95-1e9becbbd6ba)<br />
 
-* Customer report
-![image](https://github.com/user-attachments/assets/e2c5d99c-809c-41c3-a7b2-c3dc418fe2e5)
+* Product report<br />
+![image](https://github.com/user-attachments/assets/5849667e-ff36-46a4-be9a-69c42da291b8)<br />
+
+* Category report<br />
+![image](https://github.com/user-attachments/assets/816c3e0f-944c-4349-8182-9444d9e095c0)<br />
+
+* Customer report<br />
+![image](https://github.com/user-attachments/assets/e2c5d99c-809c-41c3-a7b2-c3dc418fe2e5)<br />
 
 ## Visualizations
 Project also provides the following dashboards (all in one file bike_stores_dashboards.pbix):
