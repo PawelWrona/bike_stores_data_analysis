@@ -17,32 +17,32 @@ This Data Analyst project provides the following analyses:
 
 * Cumulative Analysis<br />
 
-Cumulative analysis of sales by month, grouped by year:<br />
-![image](https://github.com/user-attachments/assets/8afed8c6-9a7e-4b5b-947e-83fe35fd495b)<br />
-Cumulative Analysis of sales by year:<br />
-![image](https://github.com/user-attachments/assets/9fedac7d-83bc-4fa9-8449-41d28c447e5a)<br />
+  Cumulative analysis of sales by month, grouped by year:<br />
+  ![image](https://github.com/user-attachments/assets/8afed8c6-9a7e-4b5b-947e-83fe35fd495b)<br />
+  Cumulative Analysis of sales by year:<br />
+  ![image](https://github.com/user-attachments/assets/9fedac7d-83bc-4fa9-8449-41d28c447e5a)<br />
 
 * Part-To-Whole Analysis<br />
 
-List shops by their contribution to overall sales:<br />
-![image](https://github.com/user-attachments/assets/cf580684-a2de-4f1a-a13e-cb15a5635688)<br />
-List products by their contribution to overall sales:<br />
-![image](https://github.com/user-attachments/assets/64a76b4a-8d25-4b99-95a1-533159ac5090)<br />
-List categories by their contribution to overall sales:<br />
-![image](https://github.com/user-attachments/assets/11863419-3d1f-4c0d-8a53-0c199bc7f056)<br />
-List brands by their contribution to overall sales:<br />
-![image](https://github.com/user-attachments/assets/5d180114-fec3-4873-90f8-f7c8485d49c5)<br />
+  List shops by their contribution to overall sales:<br />
+  ![image](https://github.com/user-attachments/assets/cf580684-a2de-4f1a-a13e-cb15a5635688)<br />
+  List products by their contribution to overall sales:<br />
+  ![image](https://github.com/user-attachments/assets/64a76b4a-8d25-4b99-95a1-533159ac5090)<br />
+  List categories by their contribution to overall sales:<br />
+  ![image](https://github.com/user-attachments/assets/11863419-3d1f-4c0d-8a53-0c199bc7f056)<br />
+  List brands by their contribution to overall sales:<br />
+  ![image](https://github.com/user-attachments/assets/5d180114-fec3-4873-90f8-f7c8485d49c5)<br />
 
 * Performance Analysis<br />
 
-Total sales compared to average total sales for each product category every year:<br />
-![image](https://github.com/user-attachments/assets/e3c7dc2c-df49-47c2-aa37-3993e785271a)<br />
-Total sales compared to last month total sales for each product category:<br />
-![image](https://github.com/user-attachments/assets/12cb942a-2087-484b-907b-476de0fd7966)<br />
-Total sales compared to average total sales for each product every year:<br />
-![image](https://github.com/user-attachments/assets/744807ba-780c-4d87-a83b-211c248e3b2e)<br />
-Total sales compared to last month total sales for each product:<br />
-![image](https://github.com/user-attachments/assets/0451130d-37d0-4f0b-ab6d-e8e3c69441b9)<br />
+  Total sales compared to average total sales for each product category every year:<br />
+  ![image](https://github.com/user-attachments/assets/e3c7dc2c-df49-47c2-aa37-3993e785271a)<br />
+  Total sales compared to last month total sales for each product category:<br />
+  ![image](https://github.com/user-attachments/assets/12cb942a-2087-484b-907b-476de0fd7966)<br />
+  Total sales compared to average total sales for each product every year:<br />
+  ![image](https://github.com/user-attachments/assets/744807ba-780c-4d87-a83b-211c248e3b2e)<br />
+  Total sales compared to last month total sales for each product:<br />
+  ![image](https://github.com/user-attachments/assets/0451130d-37d0-4f0b-ab6d-e8e3c69441b9)<br />
 
 And reports:<br />
 
