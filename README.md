@@ -8,10 +8,10 @@
 
 This Data Analyst project provides the following analyses:
 * Changes Over Time Analysis
-Changes over months for each store:
-![image](https://github.com/user-attachments/assets/0372fcad-aa0f-49b5-b9d8-3f7cd3bfec13)
-Changes over years for each store:
-![image](https://github.com/user-attachments/assets/4d9c1cf5-bae4-432f-8138-56c135d2eef1)
+Changes over months for each store:<br />
+![image](https://github.com/user-attachments/assets/0372fcad-aa0f-49b5-b9d8-3f7cd3bfec13)<br />
+Changes over years for each store:<br />
+![image](https://github.com/user-attachments/assets/4d9c1cf5-bae4-432f-8138-56c135d2eef1)<br />
 
 * Cumulative Analysis
 Cumulative analysis of sales by month, grouped by year:
