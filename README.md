@@ -64,7 +64,7 @@ And reports:<br />
 ## Visualizations
 Project also provides the following dashboards (all in one file bike_stores_dashboards.pbix):
 * Stores Dashboard
-![image](https://github.com/user-attachments/assets/4a24f0bc-4b0c-4856-a90e-82c9b92c7617)
+![image](https://github.com/user-attachments/assets/69722dc4-807f-4354-a3c2-da353de3df61)
 
 * Staffs Dashboard
 ![image](https://github.com/user-attachments/assets/ab60c906-8269-4979-a7ba-2647eac79345)
